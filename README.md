@@ -31,6 +31,7 @@ List of cellular automata implementations
 * [Compact code](http://jsfiddle.net/LqRuF/21/)
 * [LiveScript](https://sohabr.net/post/202766/)
 
+
 ## Liquid
 * https://jsfiddle.net/asteriskman/urtxgm33/
 * http://sanojian.github.io/cellauto/
@@ -68,6 +69,7 @@ List of cellular automata implementations
 * https://codepen.io/husnimun/pen/MmMePV
 * http://robinforest.net/post/cellular-automata/
 * [Cellular automata fire](https://codepen.io/acionescu/full/dnDCx)
+* [Cellular expression](http://xpl.github.io/expression/)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
