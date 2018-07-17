@@ -11,12 +11,13 @@ List of cellular automata implementations
 * [Game of Life in 176 bytes of HTML+JS](http://aem1k.com/life/)
 
 
-## Elementary Cellular Automata 
+## Cellular Automata 
 * http://www.emergentmind.com/elementary-cellular-automata
 * http://devinacker.github.io/celldemo/
 * https://www.wolframalpha.com/examples/science-and-technology/computational-sciences/cellular-automata/
 * https://codepen.io/bigsweater/full/VKZmkq
 * https://codepen.io/pavlovsk/full/aWQvJJ
+* [Lenia “smooth” is a cellular automaton with continuous states and continuous space-time](https://github.com/Chakazul/Lenia)
 * http://math.hws.edu/eck/js/edge-of-chaos/CA.html
 * http://www.cs.swan.ac.uk/~csandy/research/play/ca/
 * http://oshibka404.github.io/eca/
