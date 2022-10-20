@@ -70,6 +70,7 @@ List of cellular automata implementations
 * http://robinforest.net/post/cellular-automata/
 * [Cellular automata fire](https://codepen.io/acionescu/full/dnDCx)
 * [Cellular expression](http://xpl.github.io/expression/)
+* [Tweets a randomly generated cellular automaton every 6 hours](https://github.com/doersino/sundryautomata)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
