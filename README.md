@@ -19,7 +19,6 @@ List of cellular automata implementations
 * https://codepen.io/pavlovsk/full/aWQvJJ
 * [Lenia “smooth” is a cellular automaton with continuous states and continuous space-time](https://github.com/Chakazul/Lenia)
 * http://math.hws.edu/eck/js/edge-of-chaos/CA.html
-* http://www.cs.swan.ac.uk/~csandy/research/play/ca/
 * http://oshibka404.github.io/eca/
 * https://jsfiddle.net/seeker5084/pu9b4u01/
 * https://jsfiddle.net/mishau/tja1dpy8/129/
@@ -30,7 +29,7 @@ List of cellular automata implementations
 * http://embed.plnkr.co/nrGsi4VvE5UfjBSS8WpQ/preview
 * [Compact code](http://jsfiddle.net/LqRuF/21/)
 * [LiveScript](https://sohabr.net/post/202766/)
-
+* ~~http://www.cs.swan.ac.uk/~csandy/research/play/ca/~~
 
 ## Liquid
 * https://jsfiddle.net/asteriskman/urtxgm33/
@@ -52,10 +51,11 @@ List of cellular automata implementations
 * https://codepen.io/mikkamikka/pen/aJCwA
 
 ## D3.js
-* http://www.jeromecukier.net/projects/models/life.html
-* http://www.jeromecukier.net/projects/models/ca.html
-* http://bl.ocks.org/sylvaingi/2369589
 * https://codepen.io/VividD/pen/aBuDm
+* ~~http://www.jeromecukier.net/projects/models/life.html~~
+* ~~http://www.jeromecukier.net/projects/models/ca.html~~
+* ~~http://bl.ocks.org/sylvaingi/2369589~~
+
 
 ## 3D
 * http://cubes.io/
