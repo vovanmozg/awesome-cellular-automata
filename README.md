@@ -54,7 +54,7 @@ List of cellular automata implementations
 * https://codepen.io/VividD/pen/aBuDm
 * ~~http://www.jeromecukier.net/projects/models/life.html~~
 * ~~http://www.jeromecukier.net/projects/models/ca.html~~
-* ~~http://bl.ocks.org/sylvaingi/2369589~~
+* https://github.com/sylvaingi/d3-life
 
 
 ## 3D
