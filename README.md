@@ -16,6 +16,8 @@ List of cellular automata implementations
 * [Rust WebAssembly](https://coincoingit.fr/flavien/egui_game_of_life)
 * [Go WebAssembly](https://github.com/DeedleFake/conway)
 * [ReactJS and Material UI](https://gameoflifeconways.netlify.app/) https://github.com/nullaf/Conways-Game-Of-Life
+* [Google App Script](https://github.com/apg/app-script-game-of-life/blob/master/game-of-life.js)
+* [Google SpreadSheet](https://docs.google.com/spreadsheets/d/1M_6z0Lp614MyMi7pjwJKuhOa8__JNVqSMkdBVbR2OKY/edit#gid=0)
 
 ## Cellular Automata 
 * http://www.emergentmind.com/elementary-cellular-automata
