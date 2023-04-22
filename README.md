@@ -29,7 +29,7 @@ List of cellular automata implementations
 * http://embed.plnkr.co/nrGsi4VvE5UfjBSS8WpQ/preview
 * [Compact code](http://jsfiddle.net/LqRuF/21/)
 * [LiveScript](https://sohabr.net/post/202766/)
-* ~~http://www.cs.swan.ac.uk/~csandy/research/play/ca/~~
+* https://web.archive.org/web/20160503082956/http://www.cs.swan.ac.uk/~csandy/research/play/ca/
 
 ## Liquid
 * https://jsfiddle.net/asteriskman/urtxgm33/
@@ -52,8 +52,8 @@ List of cellular automata implementations
 
 ## D3.js
 * https://codepen.io/VividD/pen/aBuDm
-* ~~http://www.jeromecukier.net/projects/models/life.html~~
-* ~~http://www.jeromecukier.net/projects/models/ca.html~~
+* https://web.archive.org/web/20121113101013/http://www.jeromecukier.net/projects/models/life.html
+* https://web.archive.org/web/20121120031516/http://www.jeromecukier.net/projects/models/ca.html
 * https://github.com/sylvaingi/d3-life
 
 
