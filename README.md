@@ -46,6 +46,11 @@ List of cellular automata implementations
 * [Java](http://vase.essex.ac.uk/demos/cellular-automata/index.html)
 * [C++ WebAssembly](https://github.com/cimi/color-automata)
 * [Python](https://github.com/goshdarngames/Autumn-CA)
+* [Clusters](https://www.ventrella.com/Clusters/)
+* [A game of life using particles, instead of cells.](https://github.com/fnky/particle-life)
+* [Parcicles Automata](https://github.com/ArtemOnigiri/ParticleAutomataJS)
+* [Parcicles JS](https://v1vendi.github.io/particle_automata/)
+
 
 ## Liquid
 * https://jsfiddle.net/asteriskman/urtxgm33/
@@ -81,6 +86,9 @@ List of cellular automata implementations
 ## Sass Cellular Automata
 * https://codepen.io/mknadler/pen/pEWAmg
 * https://codepen.io/cursorial/full/XgNmPz
+
+## Evolution
+* https://www.swimbots.com/
 
 ## Other
 * [GitHub repositories](https://github.com/topics/cellular-automata?l=javascript)
