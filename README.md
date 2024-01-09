@@ -5,6 +5,7 @@ List of cellular automata implementations
 ## Game Of Live
 * [HTML5 Canvas implementation of Conway's Game of Life](http://diegosalazar.github.io/ConwaysGameOfLife/)
 * https://codepen.io/_massimo/pen/mRzRQV
+* https://jsfiddle.net/KwGK5/43/
 * https://life.written.ru/
 * https://codepen.io/somethingformed/pen/pgXMEz
 * https://bitstorm.org/gameoflife/
