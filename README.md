@@ -15,6 +15,7 @@ List of cellular automata implementations
 * [Rust WebAssembly](https://github.com/snst-lab/cellular-automaton-webassembly)
 * [Rust WebAssembly](https://golem.pages.dev/) https://github.com/tedbyron/golem
 * [Rust WebAssembly](https://coincoingit.fr/flavien/egui_game_of_life)
+- [Rust WebGPU (GPU Compute)](https://github.com/eliasstepanik/game_of_live) - GPU-accelerated Conway's Game of Life using wgpu compute shaders and nannou, simulating 1024×1024 grids at 60 FPS.
 * [Go WebAssembly](https://github.com/DeedleFake/conway)
 * [ReactJS and Material UI](https://gameoflifeconways.netlify.app/) https://github.com/nullaf/Conways-Game-Of-Life
 * [Google App Script](https://github.com/apg/app-script-game-of-life/blob/master/game-of-life.js)
