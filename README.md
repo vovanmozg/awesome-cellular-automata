@@ -52,6 +52,7 @@ List of cellular automata implementations
 * [A game of life using particles, instead of cells.](https://github.com/fnky/particle-life)
 * [Parcicles Automata](https://github.com/ArtemOnigiri/ParticleAutomataJS)
 * [Parcicles JS](https://v1vendi.github.io/particle_automata/)
+* [Stigmery - Game of Life, cyclic CA and Gray-Scott reaction-diffusion](https://stigmery.com/examples)
 
 
 ## Liquid
