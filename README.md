@@ -91,6 +91,7 @@ List of cellular automata implementations
 
 ## Evolution
 * https://www.swimbots.com/
+- [Particle Life](https://particlelife.app/) - Free browser-based particle life simulator: colored families attract/repel to form emergent colonies. Continuous CA-like emergence, runs in browser, no signup.
 
 ## Other
 * [GitHub repositories](https://github.com/topics/cellular-automata?l=javascript)
