@@ -53,6 +53,7 @@ List of cellular automata implementations
 * [Parcicles Automata](https://github.com/ArtemOnigiri/ParticleAutomataJS)
 * [Parcicles JS](https://v1vendi.github.io/particle_automata/)
 * [Stigmery - Game of Life, cyclic CA and Gray-Scott reaction-diffusion](https://stigmery.com/examples)
+* [CA2026 — 1D Cellular Automaton Explorer](https://kypaku.github.io/pages/ca2026) - automated rule-space scanning with behavior classification and chaos detection, large-scale diagram rendering.
 
 
 ## Liquid
