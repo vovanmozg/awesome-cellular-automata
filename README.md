@@ -103,6 +103,7 @@ List of cellular automata implementations
 * [C++ WebAssembly](https://github.com/cimi/color-automata)
 * [Python](https://github.com/goshdarngames/Autumn-CA)
 * [Stigmery - Game of Life, cyclic CA and Gray-Scott reaction-diffusion](https://stigmery.com/examples)
+* [Game of Society](https://github.com/alirizasaral/game_of_society) - Browser-based programmable cellular automata where cells can have multiple properties and transition rules are written in JavaScript.
 
 ## Continuous CA (Lenia, SmoothLife)
 * [Lenia "smooth" is a cellular automaton with continuous states and continuous space-time](https://github.com/Chakazul/Lenia)
