@@ -207,6 +207,7 @@ List of cellular automata implementations
 * [kchapelier/cellular-automata-voxel-shader](https://github.com/kchapelier/cellular-automata-voxel-shader) - Generates a MagicaVoxel voxel shader from a custom CA rule
 * [johnafish/AutomataMusic](https://github.com/johnafish/AutomataMusic) - Generates music programmatically via cellular automata
 * [plhosk/music-of-life](https://github.com/plhosk/music-of-life) - Generates music from a Game-of-Life CA via Web Audio API
+* [Phluxel](https://phluxel.com/) - Desktop studio for making art with cellular automata: a small rule language over an RGBA pixel grid, with GIF/MP4/sprite sheet export. [Browser demo](https://phluxel.com/demo/)
 
 ## Academic and research tools
 * [jcburguillo/CellNet](https://github.com/jcburguillo/CellNet) - Agent-based modeling and simulation resource covering CA
