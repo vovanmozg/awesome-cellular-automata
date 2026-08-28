@@ -207,6 +207,7 @@ List of cellular automata implementations
 * [kchapelier/cellular-automata-voxel-shader](https://github.com/kchapelier/cellular-automata-voxel-shader) - Generates a MagicaVoxel voxel shader from a custom CA rule
 * [johnafish/AutomataMusic](https://github.com/johnafish/AutomataMusic) - Generates music programmatically via cellular automata
 * [plhosk/music-of-life](https://github.com/plhosk/music-of-life) - Generates music from a Game-of-Life CA via Web Audio API
+* [Cellscape](https://github.com/rcastro1089/cellular-art-generator) - Browser-based cellular automata art generator: WebGL2 GPU rendering, 27 palettes, 3D surfaces (torus, sphere, black-hole lens), print-quality export ([live demo](https://cellscape.art/))
 
 ## Academic and research tools
 * [jcburguillo/CellNet](https://github.com/jcburguillo/CellNet) - Agent-based modeling and simulation resource covering CA
