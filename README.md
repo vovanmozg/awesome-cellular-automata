@@ -74,6 +74,7 @@ List of cellular automata implementations
 * [RobKohr/elementary-cellular-automaton](https://github.com/RobKohr/elementary-cellular-automaton) - Rule 30 fractal simulation
 * [jhamon/elementary_cellular_automata](https://github.com/jhamon/elementary_cellular_automata) - Any elementary CA rule in Ruby, STDOUT/PNG output
 * [evoplex/model-cellularAutomata1D](https://github.com/evoplex/model-cellularAutomata1D) - Evoplex plugin implementing all 256 elementary rules
+* [Elementary Cellular Automaton Simulator & Rule Table](https://9revolution9.com/games/automaton/eca) - Run any of the 256 rules in the browser, with the output mapping for each and which of the 88 independent rules it is equivalent to (mirror, complement or palindrome)
 * [mathieucaroff/rule110](https://github.com/mathieucaroff/rule110) - Turing-complete Rule 110 in HTML5 canvas
 * [tom-p-reichel/svg-is-turing-complete](https://github.com/tom-p-reichel/svg-is-turing-complete) - Rule 110 implemented in SVG
 * [slightknack/machine-110](https://github.com/slightknack/machine-110) - Compiler targeting Rule 110 as a Turing-complete substrate
