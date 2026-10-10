@@ -211,6 +211,7 @@ List of cellular automata implementations
 * [Phluxel](https://phluxel.com/) - Desktop studio for making art with cellular automata: a small rule language over an RGBA pixel grid, with GIF/MP4/sprite sheet export. [Browser demo](https://phluxel.com/demo/)
 
 ## Academic and research tools
+* [Vovala14/Mica-Ai](https://github.com/Vovala14/Mica-Ai) - Experimental language modeling with learned integer-rule cellular automata; Ember (byte-level) and Flame-W (word-level), Python inference and research reports. Non-commercial research license.
 * [jcburguillo/CellNet](https://github.com/jcburguillo/CellNet) - Agent-based modeling and simulation resource covering CA
 * [Edmon02/cellular-automaton-project](https://github.com/Edmon02/cellular-automaton-project) - High-performance CA simulation, NumPy vectorized
 * [96lives/gca](https://github.com/96lives/gca) - "Generative Cellular Automata" (ICLR): 3D shape generation via CA transition kernels
