@@ -18,6 +18,7 @@ List of cellular automata implementations
 * [Rust WebGPU (GPU Compute)](https://github.com/eliasstepanik/game_of_live) - GPU-accelerated Conway's Game of Life using wgpu compute shaders and nannou, simulating 1024×1024 grids at 60 FPS.
 * [Go WebAssembly](https://github.com/DeedleFake/conway)
 * [ReactJS and Material UI](https://gameoflifeconways.netlify.app/) https://github.com/nullaf/Conways-Game-Of-Life
+* [Conway's Game of Life with Gosper gun and R-pentomino presets](https://neuralcosmology.com/en/experiments/cc-comp-life) - draw cells by hand; gliders leave the field instead of wrapping around, embeddable with an iframe
 * [Google App Script](https://github.com/apg/app-script-game-of-life/blob/master/game-of-life.js)
 * [Google SpreadSheet](https://docs.google.com/spreadsheets/d/1M_6z0Lp614MyMi7pjwJKuhOa8__JNVqSMkdBVbR2OKY/edit#gid=0)
 * [copy/life](https://github.com/copy/life) - Game of Life in the browser, infinite field, hashlife-accelerated
@@ -76,6 +77,7 @@ List of cellular automata implementations
 * [evoplex/model-cellularAutomata1D](https://github.com/evoplex/model-cellularAutomata1D) - Evoplex plugin implementing all 256 elementary rules
 * [Elementary Cellular Automaton Simulator & Rule Table](https://9revolution9.com/games/automaton/eca) - Run any of the 256 rules in the browser, with the output mapping for each and which of the 88 independent rules it is equivalent to (mirror, complement or palindrome)
 * [mathieucaroff/rule110](https://github.com/mathieucaroff/rule110) - Turing-complete Rule 110 in HTML5 canvas
+* [Elementary cellular automata: all 256 rules](https://neuralcosmology.com/en/experiments/cc-comp-rule110) - pick any rule number in the browser, Rule 110 by default, embeddable with an iframe
 * [tom-p-reichel/svg-is-turing-complete](https://github.com/tom-p-reichel/svg-is-turing-complete) - Rule 110 implemented in SVG
 * [slightknack/machine-110](https://github.com/slightknack/machine-110) - Compiler targeting Rule 110 as a Turing-complete substrate
 * [cshenton/oneten](https://github.com/cshenton/oneten) - Rule 110 in Go
