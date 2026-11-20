@@ -214,6 +214,7 @@ List of cellular automata implementations
 
 ## Academic and research tools
 * [Vovala14/Mica-Ai](https://github.com/Vovala14/Mica-Ai) - Experimental language modeling with learned integer-rule cellular automata; Ember (byte-level) and Flame-W (word-level), Python inference and research reports. Non-commercial research license.
+* [Vovala14/CAEL](https://github.com/Vovala14/CAEL) - Non-neural reasoning system that learns cellular-automaton transition rules from examples (CellARC) and solves ARC grid tasks. Non-commercial license.
 * [jcburguillo/CellNet](https://github.com/jcburguillo/CellNet) - Agent-based modeling and simulation resource covering CA
 * [Edmon02/cellular-automaton-project](https://github.com/Edmon02/cellular-automaton-project) - High-performance CA simulation, NumPy vectorized
 * [96lives/gca](https://github.com/96lives/gca) - "Generative Cellular Automata" (ICLR): 3D shape generation via CA transition kernels
